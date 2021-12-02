@@ -1,3 +1,9 @@
+# goit-js-hw-09
+
+GoIT JS HW#09 -- Practicing async and Promise
+
+Original Readme from NPM pack goes next:
+
 # Parcel boilerplate
 
 ## Скрытые файлы
@@ -48,11 +54,3 @@ npm run dev
 Через какое-то время живую страницу можно будет посмотреть по адресу указанному в отредактированном
 свойстве `homepage`, например
 [https://goitacademy.github.io/parcel-project-template](https://goitacademy.github.io/parcel-project-template).
-
-## Файлы и папки
-
-- Все паршалы файлов стилей должны лежать в папке `src/sass` и импортироваться в
-  `src/sass/main.scss`
-- Изображения добавляйте в папку `src/images`, заранее оптимизировав их. Сборщик просто копирует
-  используемые изображения чтобы не нагружать систему оптимизацией картинок, так как на слабых
-  компьютерах это может занять много времени.
